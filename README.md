@@ -6,6 +6,8 @@ This repository contains a deep learning model built with **PyTorch** that class
 It uses a pretrained **ResNet-18** architecture and a simple prediction script (`predict.py`).
 
 ---
+# Datasets Link 
+https://drive.google.com/drive/folders/1h9zBdqAppEqAW4bVmkhA_YtoYXwZCfI6?usp=sharing
 
 ## 🚀 Setup Instructions
 
